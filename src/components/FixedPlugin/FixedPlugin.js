@@ -86,7 +86,8 @@ function FixedPlugin(props) {
           </li>
           <li className="button-container">
             <Button
-              href="https://github.com/Uni-Systems-SMSA/DevOps_Sample_Case/tree/Front-end-features"
+              href="https://github.com/ParisTat/Ntua-exrta-Files"
+              target="_blank"
               color="primary"
               block
               className="btn-round"
